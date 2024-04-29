@@ -46,6 +46,7 @@ Continuous model evaluation and adaptation are crucial as customer behavior evol
 
 ## **Usage**  
 Follow the steps in the Jupyter Notebook (Customer_Churn.ipynb) to replicate the analysis:  
+https://github.com/Qossai/Customer-Churn/blob/main/Customer_Churn.ipynb  
 
 Load and explore the dataset.  
 Conduct preprocessing and feature engineering.  
